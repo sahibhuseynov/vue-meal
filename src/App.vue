@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <h1 class="text-red-700">Sahib</h1>
-  </div>
+  <RouterView />
 </template>
 
 <script setup>
